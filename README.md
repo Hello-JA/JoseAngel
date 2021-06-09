@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Hello-JA
+# Hello
+## About me
+- 👋 Hi, I’m Jose Angel 
 - 👀 I’m interested in art and tech
-- 🌱 I’m currently learning prgramming
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ....
 
